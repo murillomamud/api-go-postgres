@@ -1,5 +1,17 @@
 # GO Api Connecting to Postgres Database
 
+
+## Running using docker-compose:
+### Start
+```bash
+docker-compose up -d
+```
+
+### Stop
+```bash
+docker compose kill
+```
+
 ## To run postgres:
 
 ```bash
