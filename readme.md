@@ -2,6 +2,9 @@
 
 
 ## Running using docker-compose:
+
+#### When creating using docker-compose, it's not necessary to execute manually any database script!!
+
 ### Start
 ```bash
 docker-compose up -d
